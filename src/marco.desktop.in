@@ -13,5 +13,6 @@ X-MATE-Bugzilla-Bugzilla=MATE
 X-MATE-Bugzilla-Product=marco
 X-MATE-Bugzilla-Component=general
 X-MATE-Autostart-Phase=WindowManager
+X-MATE-Autostart-Delay=1
 X-MATE-Provides=windowmanager
 X-MATE-Autostart-Notify=true
